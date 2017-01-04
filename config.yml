@@ -1,0 +1,28 @@
+# Options for the config file
+Config:
+  # If true. The plugin will update the config file
+  # when you install a different version the plugin
+  # type: boolean
+  Update: true
+  # Shows the Version of the config file
+  # Generally you should not touch this
+  # type: string
+  Version: '1.0'
+# Some generally options
+General:
+  # Set your prefix
+  # Will be shown at every message
+  # type: string
+  Prefix: '&8[&aBungeeNews&8]&6 '
+# Configurate the message system
+Messages:
+  # If true. Messages will start automatically after enabling plugin
+  # type: boolean
+  AutoStart: true
+  # Delay when the first message should be shown
+  # Time in minutes
+  # type: int
+  StartDelay: 1
+  # Time interval between every message
+  # type: int
+  Interval: 1
