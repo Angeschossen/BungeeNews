@@ -7,7 +7,7 @@ Config:
   # Shows the Version of the config file
   # Generally you should not touch this
   # type: string
-  Version: '1.0'
+  Version: '1.1.9'
 # Some generally options
 General:
   # Set your prefix
