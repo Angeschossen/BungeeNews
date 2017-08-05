@@ -26,3 +26,12 @@ Messages:
   # Time interval between every message
   # type: int
   Interval: 1
+# Set the server version status
+# Set it to '' if you dont want it
+# or use ingame/console command /Bn set version 
+ServerPing: '&aServerping Status'
+# If a player joins a server listed below, he will get a random news message
+JoinMessageServers:
+# type: string
+- test
+- test1
